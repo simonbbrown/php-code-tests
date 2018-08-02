@@ -1,0 +1,2 @@
+# Level 2 - WizzKazoo
+Write a program that prints the numbers from 1 to 100. But for the multiples of three print "Wizz" instead of the number and for the multiples of five print "Kazoo". For numbers which are multiples of both three and five print "WizzKazoo".
